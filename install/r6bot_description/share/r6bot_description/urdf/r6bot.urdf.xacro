@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<robot name="r6bot" xmlns:xacro="http://www.ros.org/wiki/xacro">
+
+    <xacro:include filename="r6bot_description.urdf.xacro" />
+    <xacro:include filename="r6bot.ros2_control.xacro" />
+    
+</robot>

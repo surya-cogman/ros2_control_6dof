@@ -1,0 +1,2 @@
+[console_scripts]
+trapezoidal_controller = my_trajectory.trapezoidal_controller:main

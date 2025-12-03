@@ -1,0 +1,4 @@
+source;share/r6bot_description/local_setup.bash
+source;share/r6bot_description/local_setup.dsv
+source;share/r6bot_description/local_setup.sh
+source;share/r6bot_description/local_setup.zsh

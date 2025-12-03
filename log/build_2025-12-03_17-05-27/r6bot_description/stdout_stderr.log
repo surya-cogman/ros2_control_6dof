@@ -1,0 +1,59 @@
+-- The C compiler identification is GNU 13.3.0
+-- The CXX compiler identification is GNU 13.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+-- Configuring done (0.6s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/itachi/ws/r6bot/build/r6bot_description
+-- Install configuration: ""
+-- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//meshes
+-- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//meshes/visual
+-- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//meshes/visual/link_3.dae
+-- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//meshes/visual/link_5.dae
+-- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//meshes/visual/link_4.dae
+-- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//meshes/visual/link_1.dae
+-- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//meshes/visual/link_2.dae
+-- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//meshes/visual/link_0.dae
+-- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//meshes/visual/link_6.dae
+-- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//meshes/collision
+-- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//meshes/collision/link_4.stl
+-- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//meshes/collision/link_2.stl
+-- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//meshes/collision/link_1.stl
+-- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//meshes/collision/link_0.stl
+-- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//meshes/collision/link_6.stl
+-- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//meshes/collision/link_3.stl
+-- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//meshes/collision/link_5.stl
+-- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//rviz
+-- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//srdf
+-- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//srdf/r6bot.srdf
+-- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//urdf
+-- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//urdf/inc
+-- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//urdf/inc/create_link.xacro
+-- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//urdf/r6bot_description.urdf.xacro
+-- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//launch
+-- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//launch/display.launch.xml
+-- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/ament_index/resource_index/package_run_dependencies/r6bot_description
+-- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/ament_index/resource_index/parent_prefix_path/r6bot_description
+-- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description/environment/ament_prefix_path.sh
+-- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description/environment/ament_prefix_path.dsv
+-- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description/environment/path.sh
+-- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description/environment/path.dsv
+-- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description/local_setup.bash
+-- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description/local_setup.sh
+-- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description/local_setup.zsh
+-- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description/local_setup.dsv
+-- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description/package.dsv
+-- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/ament_index/resource_index/packages/r6bot_description
+-- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description/cmake/r6bot_descriptionConfig.cmake
+-- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description/cmake/r6bot_descriptionConfig-version.cmake
+-- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description/package.xml

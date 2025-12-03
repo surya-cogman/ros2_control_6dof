@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../../build/my_trajectory/my_trajectory.egg-info/PKG-INFO
+../../build/my_trajectory/my_trajectory.egg-info/SOURCES.txt
+../../build/my_trajectory/my_trajectory.egg-info/dependency_links.txt
+../../build/my_trajectory/my_trajectory.egg-info/entry_points.txt
+../../build/my_trajectory/my_trajectory.egg-info/requires.txt
+../../build/my_trajectory/my_trajectory.egg-info/top_level.txt
+../../build/my_trajectory/my_trajectory.egg-info/zip-safe
+my_trajectory/__init__.py
+my_trajectory/trapezoidal_controller.py
+resource/my_trajectory
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

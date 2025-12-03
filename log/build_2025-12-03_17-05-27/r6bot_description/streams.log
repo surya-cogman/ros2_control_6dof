@@ -1,0 +1,65 @@
+[0.008s] Invoking command in '/home/itachi/ws/r6bot/build/r6bot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/itachi/ws/r6bot/src/r6bot_description -DCMAKE_INSTALL_PREFIX=/home/itachi/ws/r6bot/install/r6bot_description
+[0.087s] -- The C compiler identification is GNU 13.3.0
+[0.148s] -- The CXX compiler identification is GNU 13.3.0
+[0.162s] -- Detecting C compiler ABI info
+[0.230s] -- Detecting C compiler ABI info - done
+[0.237s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.237s] -- Detecting C compile features
+[0.237s] -- Detecting C compile features - done
+[0.245s] -- Detecting CXX compiler ABI info
+[0.318s] -- Detecting CXX compiler ABI info - done
+[0.325s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.325s] -- Detecting CXX compile features
+[0.326s] -- Detecting CXX compile features - done
+[0.332s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.450s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[0.616s] -- Configuring done (0.6s)
+[0.618s] -- Generating done (0.0s)
+[0.619s] -- Build files have been written to: /home/itachi/ws/r6bot/build/r6bot_description
+[0.622s] Invoked command in '/home/itachi/ws/r6bot/build/r6bot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/itachi/ws/r6bot/src/r6bot_description -DCMAKE_INSTALL_PREFIX=/home/itachi/ws/r6bot/install/r6bot_description
+[0.623s] Invoking command in '/home/itachi/ws/r6bot/build/r6bot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/itachi/ws/r6bot/build/r6bot_description -- -j12 -l12
+[0.653s] Invoked command in '/home/itachi/ws/r6bot/build/r6bot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/itachi/ws/r6bot/build/r6bot_description -- -j12 -l12
+[0.661s] Invoking command in '/home/itachi/ws/r6bot/build/r6bot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/itachi/ws/r6bot/build/r6bot_description
+[0.667s] -- Install configuration: ""
+[0.667s] -- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//meshes
+[0.667s] -- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//meshes/visual
+[0.667s] -- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//meshes/visual/link_3.dae
+[0.667s] -- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//meshes/visual/link_5.dae
+[0.667s] -- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//meshes/visual/link_4.dae
+[0.667s] -- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//meshes/visual/link_1.dae
+[0.668s] -- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//meshes/visual/link_2.dae
+[0.668s] -- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//meshes/visual/link_0.dae
+[0.669s] -- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//meshes/visual/link_6.dae
+[0.669s] -- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//meshes/collision
+[0.669s] -- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//meshes/collision/link_4.stl
+[0.669s] -- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//meshes/collision/link_2.stl
+[0.669s] -- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//meshes/collision/link_1.stl
+[0.669s] -- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//meshes/collision/link_0.stl
+[0.669s] -- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//meshes/collision/link_6.stl
+[0.669s] -- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//meshes/collision/link_3.stl
+[0.670s] -- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//meshes/collision/link_5.stl
+[0.670s] -- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//rviz
+[0.670s] -- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//srdf
+[0.670s] -- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//srdf/r6bot.srdf
+[0.670s] -- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//urdf
+[0.670s] -- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//urdf/inc
+[0.670s] -- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//urdf/inc/create_link.xacro
+[0.670s] -- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//urdf/r6bot_description.urdf.xacro
+[0.670s] -- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//launch
+[0.670s] -- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description//launch/display.launch.xml
+[0.670s] -- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/ament_index/resource_index/package_run_dependencies/r6bot_description
+[0.671s] -- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/ament_index/resource_index/parent_prefix_path/r6bot_description
+[0.671s] -- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description/environment/ament_prefix_path.sh
+[0.671s] -- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description/environment/ament_prefix_path.dsv
+[0.671s] -- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description/environment/path.sh
+[0.671s] -- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description/environment/path.dsv
+[0.671s] -- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description/local_setup.bash
+[0.671s] -- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description/local_setup.sh
+[0.671s] -- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description/local_setup.zsh
+[0.671s] -- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description/local_setup.dsv
+[0.671s] -- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description/package.dsv
+[0.671s] -- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/ament_index/resource_index/packages/r6bot_description
+[0.671s] -- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description/cmake/r6bot_descriptionConfig.cmake
+[0.671s] -- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description/cmake/r6bot_descriptionConfig-version.cmake
+[0.671s] -- Installing: /home/itachi/ws/r6bot/install/r6bot_description/share/r6bot_description/package.xml
+[0.674s] Invoked command in '/home/itachi/ws/r6bot/build/r6bot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/itachi/ws/r6bot/build/r6bot_description
