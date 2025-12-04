@@ -12,7 +12,7 @@ class TrapezoidalController(Node):
         # ---- USER PARAMETERS ----
         self.dt = 0.01                 # control loop 100 Hz
         self.max_vel = 1.0             # rad/s
-        self.max_acc = 2.0             # rad/s^2
+        self.max_acc = 3.0             # rad/s^2
         self.target_pos = np.array([0.0, -1.57, 1.0, 0.5, 0.0, 0.0])  # rad
         self.joint_count = len(self.target_pos)
 

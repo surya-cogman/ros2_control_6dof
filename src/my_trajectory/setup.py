@@ -25,6 +25,8 @@ setup(
     entry_points={
         'console_scripts': [
             'trapezoidal_controller = my_trajectory.trapezoidal_controller:main',
+            'arm_gui = my_trajectory.arm_gui:main',
+            'trap_gui_node = my_trajectory.trap_gui_node:main',
         ],
     },
 )

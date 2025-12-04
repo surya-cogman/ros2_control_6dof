@@ -1,0 +1,28 @@
+[0.723s] Invoking command in '/home/itachi/ws/r6bot/src/my_trajectory': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/itachi/ws/r6bot/build/my_trajectory/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/itachi/ws/r6bot/install/my_trajectory/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_trajectory build --build-base /home/itachi/ws/r6bot/build/my_trajectory/build install --record /home/itachi/ws/r6bot/build/my_trajectory/install.log --single-version-externally-managed install_data
+[0.926s] running egg_info
+[0.942s] writing ../../build/my_trajectory/my_trajectory.egg-info/PKG-INFO
+[0.942s] writing dependency_links to ../../build/my_trajectory/my_trajectory.egg-info/dependency_links.txt
+[0.942s] writing entry points to ../../build/my_trajectory/my_trajectory.egg-info/entry_points.txt
+[0.942s] writing requirements to ../../build/my_trajectory/my_trajectory.egg-info/requires.txt
+[0.942s] writing top-level names to ../../build/my_trajectory/my_trajectory.egg-info/top_level.txt
+[0.973s] reading manifest file '../../build/my_trajectory/my_trajectory.egg-info/SOURCES.txt'
+[0.974s] writing manifest file '../../build/my_trajectory/my_trajectory.egg-info/SOURCES.txt'
+[0.974s] running build
+[0.974s] running build_py
+[0.975s] copying my_trajectory/trapezoidal_controller.py -> /home/itachi/ws/r6bot/build/my_trajectory/build/lib/my_trajectory
+[0.975s] copying my_trajectory/arm_gui.py -> /home/itachi/ws/r6bot/build/my_trajectory/build/lib/my_trajectory
+[0.975s] running install
+[0.980s] running install_lib
+[0.995s] copying /home/itachi/ws/r6bot/build/my_trajectory/build/lib/my_trajectory/trapezoidal_controller.py -> /home/itachi/ws/r6bot/install/my_trajectory/lib/python3.12/site-packages/my_trajectory
+[0.996s] copying /home/itachi/ws/r6bot/build/my_trajectory/build/lib/my_trajectory/arm_gui.py -> /home/itachi/ws/r6bot/install/my_trajectory/lib/python3.12/site-packages/my_trajectory
+[0.996s] byte-compiling /home/itachi/ws/r6bot/install/my_trajectory/lib/python3.12/site-packages/my_trajectory/trapezoidal_controller.py to trapezoidal_controller.cpython-312.pyc
+[0.997s] byte-compiling /home/itachi/ws/r6bot/install/my_trajectory/lib/python3.12/site-packages/my_trajectory/arm_gui.py to arm_gui.cpython-312.pyc
+[0.997s] running install_data
+[0.997s] running install_egg_info
+[1.014s] removing '/home/itachi/ws/r6bot/install/my_trajectory/lib/python3.12/site-packages/my_trajectory-0.0.0-py3.12.egg-info' (and everything under it)
+[1.014s] Copying ../../build/my_trajectory/my_trajectory.egg-info to /home/itachi/ws/r6bot/install/my_trajectory/lib/python3.12/site-packages/my_trajectory-0.0.0-py3.12.egg-info
+[1.015s] running install_scripts
+[1.117s] Installing arm_gui script to /home/itachi/ws/r6bot/install/my_trajectory/lib/my_trajectory
+[1.117s] Installing trapezoidal_controller script to /home/itachi/ws/r6bot/install/my_trajectory/lib/my_trajectory
+[1.117s] writing list of installed files to '/home/itachi/ws/r6bot/build/my_trajectory/install.log'
+[1.141s] Invoked command in '/home/itachi/ws/r6bot/src/my_trajectory' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/itachi/ws/r6bot/build/my_trajectory/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/itachi/ws/r6bot/install/my_trajectory/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_trajectory build --build-base /home/itachi/ws/r6bot/build/my_trajectory/build install --record /home/itachi/ws/r6bot/build/my_trajectory/install.log --single-version-externally-managed install_data

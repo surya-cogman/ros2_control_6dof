@@ -1,2 +1,4 @@
 [console_scripts]
+arm_gui = my_trajectory.arm_gui:main
+trap_gui_node = my_trajectory.trap_gui_node:main
 trapezoidal_controller = my_trajectory.trapezoidal_controller:main

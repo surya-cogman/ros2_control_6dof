@@ -1,0 +1,27 @@
+running egg_info
+writing ../../build/my_trajectory/my_trajectory.egg-info/PKG-INFO
+writing dependency_links to ../../build/my_trajectory/my_trajectory.egg-info/dependency_links.txt
+writing entry points to ../../build/my_trajectory/my_trajectory.egg-info/entry_points.txt
+writing requirements to ../../build/my_trajectory/my_trajectory.egg-info/requires.txt
+writing top-level names to ../../build/my_trajectory/my_trajectory.egg-info/top_level.txt
+reading manifest file '../../build/my_trajectory/my_trajectory.egg-info/SOURCES.txt'
+writing manifest file '../../build/my_trajectory/my_trajectory.egg-info/SOURCES.txt'
+running build
+running build_py
+copying my_trajectory/trap_gui_node.py -> /home/itachi/ws/r6bot/build/my_trajectory/build/lib/my_trajectory
+copying my_trajectory/arm_gui.py -> /home/itachi/ws/r6bot/build/my_trajectory/build/lib/my_trajectory
+running install
+running install_lib
+copying /home/itachi/ws/r6bot/build/my_trajectory/build/lib/my_trajectory/trap_gui_node.py -> /home/itachi/ws/r6bot/install/my_trajectory/lib/python3.12/site-packages/my_trajectory
+copying /home/itachi/ws/r6bot/build/my_trajectory/build/lib/my_trajectory/arm_gui.py -> /home/itachi/ws/r6bot/install/my_trajectory/lib/python3.12/site-packages/my_trajectory
+byte-compiling /home/itachi/ws/r6bot/install/my_trajectory/lib/python3.12/site-packages/my_trajectory/trap_gui_node.py to trap_gui_node.cpython-312.pyc
+byte-compiling /home/itachi/ws/r6bot/install/my_trajectory/lib/python3.12/site-packages/my_trajectory/arm_gui.py to arm_gui.cpython-312.pyc
+running install_data
+running install_egg_info
+removing '/home/itachi/ws/r6bot/install/my_trajectory/lib/python3.12/site-packages/my_trajectory-0.0.0-py3.12.egg-info' (and everything under it)
+Copying ../../build/my_trajectory/my_trajectory.egg-info to /home/itachi/ws/r6bot/install/my_trajectory/lib/python3.12/site-packages/my_trajectory-0.0.0-py3.12.egg-info
+running install_scripts
+Installing arm_gui script to /home/itachi/ws/r6bot/install/my_trajectory/lib/my_trajectory
+Installing trap_gui_node script to /home/itachi/ws/r6bot/install/my_trajectory/lib/my_trajectory
+Installing trapezoidal_controller script to /home/itachi/ws/r6bot/install/my_trajectory/lib/my_trajectory
+writing list of installed files to '/home/itachi/ws/r6bot/build/my_trajectory/install.log'

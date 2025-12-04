@@ -9,6 +9,8 @@ setup.py
 ../../build/my_trajectory/my_trajectory.egg-info/top_level.txt
 ../../build/my_trajectory/my_trajectory.egg-info/zip-safe
 my_trajectory/__init__.py
+my_trajectory/arm_gui.py
+my_trajectory/trap_gui_node.py
 my_trajectory/trapezoidal_controller.py
 resource/my_trajectory
 test/test_copyright.py
